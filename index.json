@@ -1,0 +1,11 @@
+{
+  "org": "redis-windows",
+  "repo": "redis-windows",
+  "versions": [
+    {
+      "commit": "04bee108f1f8a0a191909cb58e2d05d25d41faa7",
+      "tag": "8.10.3",
+      "parsed_at": "2026-11-10T02:58:59.747000+00:00"
+    }
+  ]
+}
