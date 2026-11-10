@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/redis-windows/redis-windows/commit/04bee108f1f8a0a191909cb58e2d05d25d41faa7",
       "git:hexsha": "04bee108f1f8a0a191909cb58e2d05d25d41faa7",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "8.10.3"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "8.10.3",
+      "repolex:parsedAt": "2026-11-10T02:58:59.737997+00:00"
     },
     {
       "@id": "https://repolex.ai/r/redis-windows/redis-windows/commit/98e2b6ccde30ca15f97cd772b85e3fe7bd8a1525",
