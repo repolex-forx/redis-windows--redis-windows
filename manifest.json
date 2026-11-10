@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "redis-windows",
+  "repo": "redis-windows",
+  "versions": [
+    {
+      "commit": "04bee108f1f8a0a191909cb58e2d05d25d41faa7",
+      "parsed_at": "2026-11-10T02:56:29.231484+00:00",
+      "tag": "8.10.3",
+      "filetree": "filetree/04bee108f1f8a0a191909cb58e2d05d25d41faa7.nq.gz",
+      "blobs": [
+        "blob/f09c16697bb64bf6d3482ce7f4f777d79bf9e35f.nq.gz",
+        "blob/084b7fff22f7c7c78bc980e27c1d1e918062ab66.nq.gz",
+        "blob/61e7e905a3ce2e116e122b8aac267392693fc6af.nq.gz",
+        "blob/7ace52e6535fdb2a58e8f94e849ea79f2eacbf00.nq.gz",
+        "blob/547dc6e6bb6fb2e234003473629b3dace9684527.nq.gz",
+        "blob/904b57ad86c376a798cc4ff524f6d990c6d042f6.nq.gz",
+        "blob/ceaed43b5a5266f6e95ea88188d9b7c295502584.nq.gz",
+        "blob/8edb02c4fcf231681f5f8de028087a1364783a30.nq.gz",
+        "blob/87a95d935789355cdf2780da7cdd9ef12d7eda83.nq.gz",
+        "blob/ae8418ebeb6d6f3a28c63aee7381a52922bc9dd9.nq.gz",
+        "blob/c7eae39d0c215b3d3f3cb8de14c2f8bcefbfa091.nq.gz",
+        "blob/941229d42ff357166df623e7297ecb5656fa0287.nq.gz",
+        "blob/8a3620b30931bf5212fdcebda4e26c2a7d7224cc.nq.gz",
+        "blob/2028165a4ad24e8afac7d5530eac1e0c7b57c9f7.nq.gz",
+        "blob/99d9d8cae393234f9bda927289c8a969582c0802.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
